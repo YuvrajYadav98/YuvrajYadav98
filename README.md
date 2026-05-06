@@ -13,6 +13,5 @@ Hello! I'm a passionate and dedicated 3rd-year college student pursuing my degre
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YuvrajYadav98&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YuvrajYadav98&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
